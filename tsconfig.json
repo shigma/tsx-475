@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "module": "nodenext",
+    "paths": {
+      "@shigma/a": ["./src"],
+    },
+  },
+  "include": [
+    "src",
+  ],
+}

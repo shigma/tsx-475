@@ -1,17 +1,11 @@
 {
   "name": "@shigma/a",
   "version": "0.1.0",
-  "packageManager": "yarn@4.1.0",
   "type": "module",
   "main": "dist/index.js",
-  "scripts": {
-    "start": "tsx scripts/index.ts"
-  },
   "devDependencies": {
     "@shigma/b": "^0.0.4",
     "@types/node": "^20.11.19",
-    "esbuild": "^0.20.0",
-    "tsx": "4.7.0",
     "typescript": "^5.3.3"
   }
 }
